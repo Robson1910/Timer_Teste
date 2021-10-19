@@ -3,6 +3,6 @@
 Timer
 Testando comunicação Timer no C#.
 
-Video.
+Gif.
 
-![](Timer_Video.mp4)
+![](Timer_Video.gif)
